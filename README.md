@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Adding necessary role
 Adding a lambda function
 Build failed due to permission issues
 Added trigger to call the AWS SNS service to trigger email
