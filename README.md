@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Fixing the role issue
 Adding necessary role
 Adding a lambda function
 Build failed due to permission issues
