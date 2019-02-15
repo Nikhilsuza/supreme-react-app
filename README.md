@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Build failed due to permission issues
 Added trigger to call the AWS SNS service to trigger email
 Testing
 In the project directory, you can run:
